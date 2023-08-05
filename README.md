@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs and React**
 
-- 📫 How to reach me **kjlinh098@gmail.com**
+- 📫 How to reach me **linh.nguyen.cong.hoai@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left"> -->
