@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
-<h3 align="center">Currently a Software Engineer Student from Viet Nam</h3>
+<h3 align="center">Currently a Software Engineer from Viet Nam</h3>
 
 ![@lil_ink's Holopin board](https://holopin.io/api/user/board?user=lil_ink)
 
