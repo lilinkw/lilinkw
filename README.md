@@ -3,7 +3,7 @@
 
 ![@lil_ink's Holopin board](https://holopin.io/api/user/board?user=lil_ink)
 
-- 🌱 I’m currently learning **Nodejs and React**
+- 🌱 I’m currently working with **React**
 
 - 📫 How to reach me **linh.nguyen.cong.hoai@gmail.com**
 
@@ -12,27 +12,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">   
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    </a>  
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-     </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">       
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-      </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<p align="left"> 
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     </a> 
+     <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    </a> 
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    </a>  
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+     </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">       
+        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
+    </a> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       </a>
